@@ -16,5 +16,4 @@ document.addEventListener('DOMContentLoaded', function() {
         $('#nav-home').addClass('active');
     }
 
-
 });
